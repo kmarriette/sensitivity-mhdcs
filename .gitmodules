@@ -1,0 +1,6 @@
+[submodule "secure-odk-collect"]
+	path = secure-odk-collect
+	url = https://github.com/kmarriette/secure-odk-collect.git
+[submodule "secure-odk-build"]
+	path = secure-odk-build
+	url = https://github.com/kmarriette/secure-odk-build.git
